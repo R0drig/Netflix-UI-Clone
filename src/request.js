@@ -1,4 +1,4 @@
-const API_KEY ='64d52e51a66450acb0dd9dc5c5f48c9c'
+const API_KEY = '<MOVIE_DB_API_KEY>'
 
 const requests ={
   fetchTrending:`/trending/all/week?api_key=${API_KEY}&language=en-US`,
